@@ -2,4 +2,4 @@
 -- scriptType: sql
 -- queue: 1101
 
-SELECT 2;
+SELECT 3;
